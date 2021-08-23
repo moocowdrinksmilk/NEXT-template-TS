@@ -12,8 +12,8 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
+      <main className="bg-blue-400">
+        <h1 className="bg-red-500 text-red-500">
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
